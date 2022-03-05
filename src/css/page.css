@@ -1,0 +1,8 @@
+.image__container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.image__container > img {
+    width: 100%;
+}
